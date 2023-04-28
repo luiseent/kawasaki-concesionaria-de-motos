@@ -1,0 +1,25 @@
+body{ 
+    background-image: url("imagenes pagina/fondo4.png");
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+ }
+ p{ 
+     color: chartreuse;
+ }
+ h1{ 
+     color: chartreuse ;
+  }
+  h2{ 
+      color: chartreuse;
+  }
+  H3{
+    color: chartreuse;
+  }
+  
+
+  
+  td{ 
+      color: white;
+   }
